@@ -1,4 +1,5 @@
 <?php
+//i want commit to this file to learn git 
 
 $deg = '20';
 $min = '31';
